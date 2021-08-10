@@ -1833,7 +1833,7 @@ public class NHBlocks implements ContentList {
 			powerProduction = 1250f;
 			updateLightning = updateLightningRand = 3;
 			effectColor = NHItems.thermoCorePositive.color;
-			itemCapacity = 40;
+			itemCapacity = 100;
 			itemDuration = 180f;
 			ambientSound = Sounds.pulse;
 			ambientSoundVolume = 0.1F;
